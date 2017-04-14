@@ -1,0 +1,40 @@
+3-Equijoins
+4-left to right
+Database Query Languages-Query
+Procedural Language- Relational Algebra
+Relations - 1-Join
+Relations - 2-Cartesian Products
+
+INDEX
+Index Architecture Types-2
+Indexes - 2 -If the table has a clustered index, or the index is on an indexed view, the row locator is the clustered index key for the row.
+Indexes - 3- A = 1.33B
+Indexes - 4- CREATE INDEX index_name
+ON table_name(column1, column2);
+
+OLAP
+OLAP Performance-Aggregation
+OLAP Operations - 1-roll-up
+OLAP Operations - 2-pivot
+OLAP Cube Metadata-Both Star and Snowflake Schema
+OLAP Name(s)-Multidimensional Cube
+HyperCube both B and C
+The Total View- Data Warehousing
+
+SET AND ALGEBRA
+Databases - Relational Calculus-19
+Databases - Keys-bookname
+Databases - Natural Joins- 50 1 6
+Databases - Differences- 2 3
+
+
+DATABASE NORMALIZATION
+Database Normalization #1 - 1NF - 3 5 2
+Database Normalization #2 - 1/2/3 NF- 3
+Database Normalization #3- 3
+Database Normalization #4- 10
+Database Normalization #5- 3
+Database Normalization #6- 2
+Database Normalization #7- 3.5
+Database Normalization #8- 3
+Database Normalization #9- 2
